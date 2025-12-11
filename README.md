@@ -82,6 +82,8 @@ To allow the website to be publicly accessible:
 
 After completing all steps, your static website will be available via the S3 **Website Endpoint URL**, found under the **Static website hosting** section.
 
+![Step 1 Screenshot](1.png)
 ---
+
 
 
